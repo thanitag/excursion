@@ -1,0 +1,36 @@
+* {
+  font-family: Verdana;
+}
+body {
+  text-align: center;
+  background-color: black;
+}
+h1 {
+  font-size: 50px;
+  font-family: Verdana;
+  font-weight: normal;
+  color: white;
+  align: center;
+}
+.soon {
+  font-size: 16px;
+  font-family: Arial;
+  color: aquamarine;
+}
+video {
+  max-width: 100%;
+  height: auto;
+}
+.mid {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+p {
+  font-size: 21px;
+  color: gray;
+}
+.footer {
+  text-align: right;
+  color: gray;
+}
