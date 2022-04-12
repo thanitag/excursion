@@ -1,0 +1,2 @@
+# Excursion - An Off-Platform Project from Codecademy
+In this project, we were instructed to create a webpage to advertise a product called "Excursion" using HTML, CSS, Command Line Interface, Git, and GitHub. The webpage will advertise a mobile app which helps users record and share their experiences, so we used video and landscape imagery to set the scene. We were provided a design mock and reline mock to assist with coding the site. I used Atom as the code editor.
